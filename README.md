@@ -1,1 +1,3 @@
-# calculadora_react
+# React + TypeScript + Vite
+
+## Calculadora Practica 2
